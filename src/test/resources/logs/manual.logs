@@ -1,0 +1,16 @@
+17/07/2024 12:14:41 devpinoyLogger Config file loaded
+17/07/2024 12:14:44 devpinoyLogger chrome driver Initialized
+17/07/2024 12:14:46 devpinoyLogger Launched URL
+17/07/2024 12:14:47 devpinoyLogger Clicked on Bank Manager button
+17/07/2024 12:14:48 devpinoyLogger Clicked on Add Customer
+17/07/2024 12:14:48 devpinoyLogger Entered value ABCD on First Name
+17/07/2024 12:14:48 devpinoyLogger Entered value Kacharla on Last Name
+17/07/2024 12:14:48 devpinoyLogger Entered value 500050 on Postal Code
+17/07/2024 12:14:48 devpinoyLogger Clicked on Add Customer
+17/07/2024 12:14:49 devpinoyLogger Clicked on Home Button
+17/07/2024 12:14:49 devpinoyLogger Clicked on Bank Manager button
+17/07/2024 12:14:49 devpinoyLogger Clicked on Show Customer
+17/07/2024 12:14:49 devpinoyLogger Clicked on Search Customer
+17/07/2024 12:14:49 devpinoyLogger Entered value ABCD on Seacrh Customer
+17/07/2024 12:14:49 devpinoyLogger Clicked on Delete
+17/07/2024 12:14:49 devpinoyLogger Deleted ABCD
